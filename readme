@@ -1,0 +1,52 @@
+      ██╗   ██╗███████╗██╗   ██╗███╗   ███╗ █████╗ ██╗  ██╗██╗
+      ██║   ██║╚══███╔╝██║   ██║████╗ ████║██╔══██╗██║ ██╔╝██║
+      ██║   ██║  ███╔╝ ██║   ██║██╔████╔██║███████║█████╔╝ ██║
+      ██║   ██║ ███╔╝  ██║   ██║██║╚██╔╝██║██╔══██║██╔═██╗ ██║	
+      ╚██████╔╝███████╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██╗██║
+       ╚═════╝ ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+
+                  N O R O I   S I M U L A T I O N
+
+======================================================================
+         E N G L I S H   T R A N S L A T I O N   P A T C H   
+
+                        V E R S I O N   1 . 0
+======================================================================
+INTRO:
+
+Hello everyone, this is an English translation patch for Uzumaki Noroi Simulation.
+
+All dialogue, 99% of the UI, and most graphical text is translated into English.  
+
+The game is fully completable in English.  Enjoy!
+
+This is my very first English translation ROM patch.  If it sucks, now you know why.  
+
+HOW TO USE:
+
+If you use an emulator with soft patching capabilities, simply put the IPS file into the same directory as the ROM and
+change the filename to match them, or use your favorite IPS patcher. 
+ 
+Required clean-ROM SHA-256:
+`cb726ea64e6d189835af81aab5339a8713cf749adc4cee119d6680975de5c316`
+
+NOTE: I do not know if this patch works with the [f1] PROM-to-SRAM compatibility ROM.  Testing was done with [M][!] version.
+
+F.A.Q.
+
+1. What exactly remains untranslated?
+1A. The title screen text, the intro Raise a Snail graphic, and the "choose your name" UI of the raise a snail minigame, 
+and a small amount of text in graphical cutaways. However, if you choose "おまかせ" on the name selection screen it will give you 
+a random snail name with Latin characters.
+
+2. Why didn't you translate the above?
+2A. Too hard/don't know how/aesthetic reasons :)
+
+3. Did you use AI?
+3A. Yes, for help finding/editing memory/opcodes, and the translation, with is MTL with Human review and editing.
+
+CREDITS:
+Light80 - technical work / translation review
+Drifter - translation review / play testing
+Badreflexes - play testing
+Tony Soprano - moral support
